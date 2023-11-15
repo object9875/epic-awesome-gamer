@@ -9,8 +9,8 @@ services:
       - "/home/epic/user_data_dir:/home/epic/user_data_dir"
       - "/home/epic/logs:/home/epic/logs"
     environment:
-      EPIC_EMAIL:
-      EPIC_PASSWORD:
+      EPIC_EMAIL: jw199875@qq.com
+      EPIC_PASSWORD: aiziji520...
 
 # ======================================
 # [🍜] Documentaion
